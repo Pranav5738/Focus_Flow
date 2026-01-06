@@ -1,5 +1,6 @@
 # Focus_Flow
 FocusFlow is a full-stack habit tracker with a React + Tailwind frontend and a FastAPI backend featuring JWT authentication, habit management, streak tracking, and analytics dashboards.
+<<<<<<< HEAD
 
 ## Local development
 
@@ -55,3 +56,5 @@ Set this environment variable at build time:
 See examples:
 - [backend/.env.example](backend/.env.example)
 - [frontend/.env.production.example](frontend/.env.production.example)
+=======
+>>>>>>> 925c0584284bdf97675abed543555b25e9b682ba
