@@ -8,9 +8,6 @@ backend/venv/
 # Node
 node_modules/
 
-# VS Code
-.vscode/
-
 # Env files
 .env
 backend/.env
